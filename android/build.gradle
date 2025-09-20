@@ -107,7 +107,7 @@ afterEvaluate {
         from components.release
         groupId = "com.calllogsandroid"       
         artifactId = "react-native-calllogs-android" 
-        version = "0.2.0"                       
+        version = "0.2.1"                       
       }
     }
   }
