@@ -1,6 +1,6 @@
 {
   "name": "react-native-calllogs-android",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A react native library to get call logs in android based on new architecture",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
